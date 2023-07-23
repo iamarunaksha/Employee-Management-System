@@ -1,5 +1,5 @@
 # Employee-Management-System
-A basic Employee Management System implemented using C++
+A Employee Management System implemented using C++
 
 This is a basic Employee Management System that will run on the terminal. It has the functionality to add employee details, view them individually with the help of a unique identifier in this case EmpID or view them as a list.
 One can also remove an entry permanently from the EMS.
