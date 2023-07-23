@@ -6,3 +6,5 @@ One can also remove an entry permanently from the EMS.
 
 Shortfalls :
 The program doesn't have the capability to read existing details stored in the "data.txt" file fed to the EMS in previous sessions. One can add that functionality to make this EMS more robust.
+
+P.S - This is my very first project after learning C++ in my 1st year of Engineering in 2020.
